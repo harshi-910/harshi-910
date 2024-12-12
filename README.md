@@ -54,7 +54,7 @@
 
 <br/>
 <br/>
-<br/><br/>
+
 <h2 align="">📃 Certifications</h2> 
 
 - AWS Certified Cloud Practitioner
