@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
-  <img align="left" alt="Tech Stack Animation" width="400" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
+  <img align="right" alt="Tech Stack Animation" width="400" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
 </picture>
 
 **💻 Programming Languages:** Java, C, SQL
