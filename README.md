@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshi-910&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
 </p>
 <br/>
-<br/><br/>
+
 
 
 <!--Languages and Tools Section-->       
