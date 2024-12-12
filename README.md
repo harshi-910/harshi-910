@@ -35,7 +35,7 @@
   <img align="left" alt="Tech Stack Animation" width="400" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
 </picture>
 
-**💻 Programming Languages:** Java, C, SQL
+**💻 Programming Languages:** Java, C Programming
 
 **🌐 Web Development:** HTML, CSS
 
