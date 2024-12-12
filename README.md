@@ -35,19 +35,23 @@
   <img align="left" alt="Tech Stack Animation" width="400" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
 </picture>
 
-**🖥️ Languages:** Java, C, SQL
+**💻 Programming Languages:** Java, C, SQL
 
-**🌐 Web Development:** HTML, CSS  
+**🌐 Web Development:** HTML, CSS
 
-**🗄️ Databases:** MySQL, PostgreSQL  
+**🗄️ Databases:** MySQL, PostgreSQL
 
-**📚 Libraries & Frameworks:** SpringBoot, Spring, Hibernate, RestAPI  
+**📚 Libraries & Frameworks:** Spring Boot, Spring, Hibernate, Rest API
 
-**⚙️ Platforms:** Web, Windows, Arduino, AWS, GCP  
+**☁️ Platforms & Cloud Services:** Web, Windows, Arduino, AWS, GCP
 
-**🧪 Testing & Tools:** GIT, Maven, JUnit, Postman, Selenium, Power BI, Tableau  
+**🛠️ Testing & Development Tools:** Git, Maven, JUnit, Postman, Selenium
+
+**📊 Data Analysis & Visualization:** Power BI, Tableau
 
 **🌟 Soft Skills:** Leadership, Event Management, Time Management, Teamwork
+
+
 <br/>
 <br/>
 <br/><br/>
