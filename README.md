@@ -7,17 +7,17 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'm HARSHITHA! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm HARSHITHA! 
 **Computer Engineer**
 <br/>
 
 <!--Start Intro-->               
 
 - ✨ Student of life :)
-- 🌱 I'm a **Computer Science Student** (Batch 2022-2026) with a CGPA of **9.4**. Passionate about building user-centric web applications, exploring innovative solutions in tech, and specializing in **backend development**.  
+- 🌱 I'm a **Computer Science Student** (Batch 2022-2026) with a CGPA of **9.4**. Passionate about building user-centric web applications, exploring innovative solutions in tech and specializing in **backend development**.  
   Recently completed my project **[PrimeHomes](https://github.com/harshi-910/PrimeHomes.git "PrimeHomes")**, contributing to a platform that enhances the value of Indian middle-class residential properties.
 
-
+<br/>
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -82,13 +82,13 @@
 <br/>
 
 
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<!--<h2 align="center">🌟 Thought of the Day 🌟</h2>-->
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
+<!--<p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Challenge%20yourself%20to%20find%20the%20good%20and%20beautiful%20thing%20inside%20of%20everyone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+</p>-->
+<!--ENDS_HERE_QUOTE_CARD--> 
 
 
 
