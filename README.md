@@ -1,5 +1,5 @@
 <!--Banner-->
-![harshi-910 Banner Image](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
+<!--![harshi-910 Banner Image](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)--!>
 
 <!--Night Owl image-->
 <div>
@@ -9,7 +9,7 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'm HARSHITHA! 
 **Computer Engineer**
-
+<br/>
 
 <!--Start Intro-->               
 
@@ -28,7 +28,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">🛠️ Tech Stack</h2> 
+<h2 align="">🛠️ Tech Stack</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
@@ -51,14 +51,14 @@
 <br/>
 <br/>
 <br/><br/>
-<h2 align="center">📃 Certifications</h2> 
+<h2 align="">📃 Certifications</h2> 
 
 - AWS Certified Cloud Practitioner
 - Red Hat Certified Enterprise Application Developer 
 - Salesforce Certified AI Associate 
 <br/>
 
-<h2 align="center">📊 Coding Profiles</h2> 
+<h2 align="">📊 Coding Profiles</h2> 
 
 <p align="center">
    <a href="https://leetcode.com/u/harshitha_1006/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<h2 align="center">🤝 Connect With Me</h2> 
+<h2 align="">🤝 Connect With Me</h2> 
 
 <p align="center">
   <a href="mailto:2200030411cseh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
